@@ -1,0 +1,36 @@
+#number_1
+{
+	width: 60%;
+}
+
+#number_2
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#quiz
+{
+	color:#77ffe7;
+}
+
+#login_button
+{
+	color: black;
+	background:#77ffe7 ;
+}
+
+#game{
+	background-color:magenta;
+}
